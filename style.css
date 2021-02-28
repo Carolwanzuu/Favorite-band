@@ -11,8 +11,10 @@ p{
     font-family:Arial, Helvetica, sans-serif;
     font-size : medium;
     border:1em slategrey;
+    outline-style: dashed;
+    padding:5px;
     width: 650px;
-    height:100px;
+    height:70px;
 }
 li{
     color:#cc00bb;
