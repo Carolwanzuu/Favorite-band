@@ -4,6 +4,7 @@ h1{
     font-style: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: xx-large;
+    text-align: center;
 }
 p{
     color:blueviolet;
@@ -19,5 +20,4 @@ li{
 }
 h2{
     font-weight: 700;
-    background color:cornsilk;
 }
