@@ -6,7 +6,7 @@ Carolyne Wanzuu
 ## Setup/Installation Requirements
 Inorder to access this file from your local machine, you can clone it using these steps:
 * Open your terminal
-* Use this command to clone: "git clone https://github.com/Carolwanzuu/hello-world.git
+* Use this command to clone: "git clone https://carolwanzuu.github.io/Favorite-band/
 *This will clone the repository to your local user
 
 ## Technologies Used
@@ -14,6 +14,6 @@ Inorder to access this file from your local machine, you can clone it using thes
 *CSS
 *Git
 ## live site
-view [live]
+view [live](https://carolwanzuu.github.io/Favorite-band/)
 ### License
 This project is under the [MIT] (LICENSE) license
