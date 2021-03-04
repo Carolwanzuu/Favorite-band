@@ -16,16 +16,26 @@ p{
     height:70px;
 }
 li{
-    color:#cc00bb;
+    color: #a10795;
 
 }
 h2{
     font-weight: 700;
+    text-align: center;
 }
 body{
-    background-color: coral;
+    background-color: #0fb1ce;
+    padding-right: 1%;
+    margin: 10px 5px 10px 5px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
 image{
-    border: 4px;
-    margin: 20px 0,0,10px;
+    border: 2px;
+    margin: 20px 0 0 10px;
+    padding: 10px 5px 5px 5px;
+}
+.trio{
+    justify-content: stretch;
 }
